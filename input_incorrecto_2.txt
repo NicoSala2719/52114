@@ -1,0 +1,3 @@
+agenda {
+    15/06/25 : 09:00 : "Fecha con anio incorrecto" ;
+} ;

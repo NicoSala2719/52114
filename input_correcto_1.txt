@@ -1,0 +1,5 @@
+agenda {
+    15/06/2025 : 09:00 : "Reunion de equipo" ;
+    20/06/2025 : 14:30 : "Presentacion del proyecto" ;
+    25/06/2025 : 10:00 : "Capacitacion ANTLR4" ;
+} ;
